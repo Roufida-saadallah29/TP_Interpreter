@@ -1,5 +1,5 @@
 # TP_Interpter
-a mini interpreter of arethmetic operations written in JAVA
+The program is a mini interpreter for a very simple language 
 It has 3 commands :
 
     let <variable> = <expression>
