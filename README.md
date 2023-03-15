@@ -1,4 +1,4 @@
-# TP_Interpter
+# TP_Interpreter
 The program is a mini interpreter for a very simple language 
 It has 3 commands :
 
